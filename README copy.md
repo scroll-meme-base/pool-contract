@@ -3,27 +3,25 @@
 
 Memebase has realized the truly ownerless and costless launch of memecoin through a decentralized protocol. We aim to create an infrastructure that serves the launch and development of memecoin, enabling more memecoins to develop sustainably. We believe memecoins can create great culture and build new organizational relationships that can promote production development for the crypto world and all human beings.
 
-- **Demo Website**: [https://scroll.memebase.co/](https://scroll.memebase.co/)
-- **Alpha Demo Video**: Memebase Alpha Version Demo
-- **Documentation**: [https://docs.memebase.co/](https://docs.memebase.co/)
-- **Deck**: [https://docsend.com/view/uywgpgnzrerb6r8n](https://docsend.com/view/uywgpgnzrerb6r8n)
-- **X**: [https://x.com/MemebaseCo](https://x.com/MemebaseCo)
-- **Telegram**: [https://t.me/MemebaseCo](https://t.me/MemebaseCo)
 - **Email**: Bitgoodwill@gmail.com
 
 ## Contracts
 
 This project includes the following smart contracts deployed on the Scroll Sepolia network (chainId: 84532):
 
-- `BonusUpgradeable.sol` - Deployed at: `0x7b6A2175496C4DE2aEe2F662ec10fBcFC65455C6`
-- `PoolUpgradeable.sol` - Deployed at: `0x5C7120eE69620e99eD35F63C8aE809D8bAa95ea4`
-- `VoteUpgradeable.sol` - Deployed at: `0xE3F2f0F967EBdcD29F60CdaaC8B5B59aD2E8C4a5`
-- `WhitelistManagerUpgradeable.sol` - Deployed at: `0x01E83616349FE956a8DcC0b2b7Db0bEA22c77f38`
+- `BonusUpgradeable.sol` - Deployed at: `0x43c9c8bfaB2f84a1415C67e6De458f1047D0c1C7`
+- `PoolUpgradeable.sol` - Deployed at: `0xA7DB94de733DE870A2B4fc9d28e4fE249b9010b6`
+- `VoteUpgradeable.sol` - Deployed at: `0xdc9e2f919Bfa1eBa5f225Ee4BE2F4144dbD94943`
+- `WhitelistManagerUpgradeable.sol` - Deployed at: `0x31c09775c97A06896629417dFD7aF3C973CeD4D9`
 
 ### Interfaces
 
 - `IPool.sol`
 - `IWhitelistManager.sol`
+
+## Subgraph
+
+https://testnet.thegraph.com/explorer/subgraphs/4nRP1H8MqSykYvcnvfFCcZyZry3BrENFPSek2634JqEb?view=Indexers&chain=arbitrum-sepolia
 
 
 
